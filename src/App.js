@@ -3,6 +3,9 @@ import React from 'react'
 import logo from './logo.svg';
 import './App.css';
 
+import Navbar from './components/Navbar' 
+import Slidebar from './components/Slidebar';
+
 function App() {
   return (
     
@@ -10,9 +13,13 @@ function App() {
 
 
     <div className="App">
+      <Navbar></Navbar>
+      <Slidebar></Slidebar>
       <header className="App-header">
+
+      <p> Benvinguts a Estructures i Construccions Cerdanya S.L. </p>
         <img src={logo} className="App-logo" alt="logo" />
-        <p> Benvinguts a Estructures i Construccions Cerdanya S.L. </p>
+        
         <p> Sergi Reus </p>
         <a href="mailto:sergi@consestruccere.com">sergi@consestruccere.com</a>
       </header>
