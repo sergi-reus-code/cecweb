@@ -13,8 +13,20 @@ function App() {
 
 
     <div className="App">
+
+<div className="Slidebar">
+<Slidebar></Slidebar>
+      
+</div>
+
+
       <Navbar></Navbar>
-      <Slidebar></Slidebar>
+      <div>
+      
+      </div>
+
+
+
       <header className="App-header">
 
       <p> Benvinguts a Estructures i Construccions Cerdanya S.L. </p>

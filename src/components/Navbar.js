@@ -4,7 +4,7 @@ import '../App.css';
 
 function Navbar() {
   return (
-    <div className="navbar">
+    <div className="Navbar">
         <p>sdfdsfasdfasfg</p>
     </div>
   )
