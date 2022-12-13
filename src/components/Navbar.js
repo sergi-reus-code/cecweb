@@ -4,8 +4,22 @@ import '../App.css';
 
 function Navbar() {
   return (
-    <div className="Navbar">
-        <p>sdfdsfasdfasfg</p>
+    <div>
+        <div className="NavbarLeft">
+
+        <p>Construccions i Estructures Ceretanes S.L.</p>
+
+
+        </div>
+        <div className="NavbarRight">
+
+        
+
+
+        </div>
+        
+        
+        
     </div>
   )
 }

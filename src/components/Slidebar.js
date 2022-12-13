@@ -12,8 +12,9 @@ const Slidebar = () => {
     return (
         <Zoom scale={1.4} indicators={true}>
             {images.map((each, index) => (
-                <div key={index} style={{ width: "100%" }}>
-                    <img style={{ objectFit: "cover", width: "50%" }} alt="Slide Image" src={each} />
+                <div key={index} style={{ width: "100%", align:"center" }}>
+                    
+                    <img style={{ objectFit: "cover", width: "100%" , align:"center" }} alt="Slide Image" src={each} />
                 </div>
             ))}
         </Zoom>
