@@ -5,33 +5,28 @@
 }
 
 .Navbar {
-  
-
-
-
-
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 
 
-  align-items:baseline;
-  justify-content:stretch;
+  
 
 
 }
 
 .NavbarLeft{
-  font-weight: bolder;
+  font-size: 150%;
+  font-weight: 800;
   color:rgb(227, 225, 231); 
   flex:content;
   padding: 25px;
-  
+  background-color: #00000098;
   
 }
 
 .NavbarRight{
-  padding: 5px;
- 
+  font-size: 150%;
+  text-align: center;
 }
 
 

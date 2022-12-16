@@ -3,16 +3,13 @@ import React from 'react'
 function Midlebar() {
   return (
     <div>
-        <p> 
-            Benvinguts a Estructures i Construccions cerdanyadsfgsdf gsdf gñdfsglsdkfg dsf
-            lg hsdljfg dfgsjdfg sdñfgj sdf glsdfj gdljgfh sñldfl
-            ñgjh sdflñjg hsdlfjgh sdñfljgh sdñlfjgh ñlsdhf gdlsfjg
-            h lsjdfhg sdñfljgh ñlsdfhg ñljsdfh gñsdfgñlhjdswfg sd
-            fñlgjh uctures i Construccions Cerdanya S.L. </p>
+        <p>Donem forma als teus somnis, idees i projectes</p>
+        <p>Som el teu referent amb una amplia experiencia construint a la Cerdanya</p>
+        <p>Dispossem d'un gran equip de professionals</p>
         
         <hr className='hr'/>
 
-        <p> Sergi Reus </p>
+        
         
         
         
